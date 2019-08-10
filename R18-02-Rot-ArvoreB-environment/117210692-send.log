@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T14:42:44.026-0300</date>
+  <logger>JOAO ANTONIO BANDEIRA DE OLIVEIRA MARTINS</logger>
+  <level>FINE</level>
+  <message>File 117210692-JOAO ANTONIO BANDEIRA DE OLIVEIRA MARTINS.zip was received. It was sent by JOAO ANTONIO BANDEIRA DE OLIVEIRA MARTINS from IP 150.165.42.157 at 13-06-2019 14*42*44</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T20:19:13.793-0300</date>
+  <logger>JOAO ANTONIO BANDEIRA DE OLIVEIRA MARTINS</logger>
+  <level>FINE</level>
+  <message>File 117210692-JOAO ANTONIO BANDEIRA DE OLIVEIRA MARTINS.zip was received. It was sent by JOAO ANTONIO BANDEIRA DE OLIVEIRA MARTINS from IP 192.168.15.3 at 13-06-2019 20*19*13</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T20:20:11.238-0300</date>
+  <logger>JOAO ANTONIO BANDEIRA DE OLIVEIRA MARTINS</logger>
+  <level>FINE</level>
+  <message>File 117210692-JOAO ANTONIO BANDEIRA DE OLIVEIRA MARTINS.zip was received. It was sent by JOAO ANTONIO BANDEIRA DE OLIVEIRA MARTINS from IP 192.168.15.3 at 13-06-2019 20*20*11</message>
+</record>
